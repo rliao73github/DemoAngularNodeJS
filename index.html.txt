@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Hello AngularJS & NodeJS</title>
+</head>
+<body>
+<h1>Hello AngularJS & NodeJS</h1>
+</body>
+</html>
